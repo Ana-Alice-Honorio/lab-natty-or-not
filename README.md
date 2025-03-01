@@ -18,7 +18,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre Vue, estruturar o conteú
 
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como um iniciante com o Vue, pode usá-lo de forma que gere muitos resultados e insights.
 
-[📥Download do Ebook](./docs/Vue%20para%20iniciantes.pdf)
+<a href="./docs/Vue para iniciantes.pdf" download>📥 Download do Ebook</a>
 
 ## 💭 Reflexão
 
